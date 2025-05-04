@@ -32,10 +32,10 @@ logging.basicConfig(
 botStartTime = time.time()
 
 app = Client(
-    "pyrobot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN,
+    "save21002bot",
+    api_id=24613691,
+    api_hash=02e26dda98339d99d57920f4a597e54e,
+    bot_token=7829667849:AAHsAwhsrmaLz8yQH04DUHDgF_0BOW_3Wck,
     workers=50,
     parse_mode=ParseMode.MARKDOWN
 )
